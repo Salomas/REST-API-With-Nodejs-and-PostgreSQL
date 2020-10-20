@@ -1,0 +1,11 @@
+{
+    "env" : {
+        "PG_USER" : "postgres",
+        "PG_PASSWORD" : "nodeapi123456",
+        "PG_DATABASE" : "nodeapi",
+        "PG_HOST" : "localhost",
+        "PG_PORT" : 5432
+    }
+
+
+}
